@@ -1,2 +1,2 @@
-# Codecademy_JS_Challenges
+# Solving Promblems_JS_Challenges
 Solving Codecademy Js Algorithmic
